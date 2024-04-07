@@ -8,7 +8,7 @@ An awesome Horse Race betting game running on Blockchain and powered by Chainlin
 ![diagram](https://github.com/Sagar133/RPG-Solidity-Game/blob/elio-blockchain/blockchain/src/assets/diagram.jpg)
 
 # Demo Video
-https://www.youtube.com/watch?v=5uvk9UemEfc&ab_channel=SagarBeharaSagarBehara
+https://www.loom.com/share/5ff6b6af3ec243ef9d9331c0551b2263?sid=ece3b4d8-eb07-4315-8ef9-656f250c5ddf
 
 <!-- GETTING STARTED -->
 ## Getting Started
