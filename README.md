@@ -31,20 +31,20 @@ Following are the instructions for running the web application locally.
 1. Get a free API Key at [https://infura.io/](https://infura.io/) , and Etherscan
 2. Clone the repo
    ```sh
-   git clone https://github.com/50-30-20/Chainlink-Jockey.git
+   git clone https://github.com/myanzik/Jockey-Rumble
    ```
-   First navigate to `Chainlink-Jockey`
-3. First navigate to `Chainlink-Jockey` and Install NPM packages
+   First navigate to `Jockey-Rumble`
+3. First navigate to `Jockey-Rumble` and Install NPM packages
    ```sh
    npm install
    yarn
    ```
 4. Enter your API in `.env` inside 
-Chainlink-Jockey/ folder
+Jockey-Rumble/ folder
 
    ```JS
    ETHERSCAN_API_KEY="Your ETHERSCAN API KEY"
-   RPC_URL="https://rinkeby.infura.io/v3/{YOUR RINKEBY API KEY}"
+   RPC_URL="https://polygon-mumbai.infura.io/v3/{YOUR RINKEBY API KEY}"
    MNEMONIC="Seed phrase of your metamask wallet"
    SKIP_PREFLIGHT_CHECK=true
    PRIVATE_KEY="Enter exported private key of your ethereum wallet metamask"
@@ -60,7 +60,7 @@ Chainlink-Jockey/ folder
    ```  
 
 Following are the instructions for running the game locally:
-1. First navigate to `Chainlink-Jockey/` folder and Install NPM packages
+1. First navigate to `Jockey-Rumble/` folder and Install NPM packages
   ```sh
    npm start
    OR
@@ -77,15 +77,3 @@ Contributions are what make the open source blockchain community such an amazing
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-<!-- CONTACT -->
-## Contact
-
-1. SAGAR BEHARA - [Sagar Behara](https://www.linkedin.com/in/sagarbehara/) - sagarbehara13@gmail.com
